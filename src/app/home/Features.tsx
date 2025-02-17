@@ -13,8 +13,8 @@ const FEATURES = [
   },
   {
     src: featureUSSrc,
-    title: "U.S. Best Practices",
-    text: "OpenResume has built-in best practices for the U.S. job market and works well with top ATS platforms such as Greenhouse and Lever",
+    title: "World-Wide Best Practices",
+    text: "OpenResume has built-in best practices for the World-Wide job market and works well with top ATS platforms such as Greenhouse and Lever",
   },
   {
     src: featurePrivacySrc,
@@ -23,16 +23,15 @@ const FEATURES = [
   },
   {
     src: featureOpenSourceSrc,
-    title: "Open-Source",
+    title: "Properatory",
     text: (
       <>
-        OpenResume is an open-source project, and its source code can be viewed
-        by anyone on its{" "}
-        <Link href="https://github.com/xitanggg/open-resume">
-          GitHub repository
-        </Link>
+        OpenResume is a proprietary project, and its source code is not available for public access.
+        If you're looking for similar tools or projects, there are various open-source alternatives available
+        online, but OpenResume itself is a closed-source project.
       </>
     ),
+
   },
 ];
 

@@ -72,21 +72,9 @@ const QAS = [
     question: "Q3. Who created OpenResume and why?",
     answer: (
       <p>
-        OpenResume was created by{" "}
-        <Link href="https://github.com/xitanggg">Xitang Zhao</Link> and designed
-        by <Link href="https://www.linkedin.com/in/imzhi">Zhigang Wen</Link> as
-        a weekend project. As immigrants to the US, we had made many mistakes
-        when creating our first resumes and applying for internships and jobs.
-        It took us a long while to learn some of the best practices. While
-        mentoring first generation students and reviewing their resumes, we
-        noticed students were making the same mistakes that we had made before.
-        This led us to think about how we can be of help with the knowledge and
-        skills we have gained. We started chatting and working over the weekends
-        that led to OpenResume, where we integrated best practices and our
-        knowledge into this resume builder. Our hope is that OpenResume can help
-        anyone to easily create a modern professional resume that follows best
-        practices and enable anyone to apply for jobs with confidence.
+        OpenResume was created by <Link href="https://github.com/gopi744">Gopi</Link> at Avichi College of Arts and Science as a mini-project for his BCA course. The idea behind this project was to help students create professional resumes that follow best practices, especially for those who are new to the job application process. As a BCA student, Gopi aimed to integrate his learning and knowledge into a practical tool that can assist others. With OpenResume, the goal is to provide an easy-to-use platform for anyone to create a modern, professional resume with confidence and ease, helping them prepare for internships and job applications.
       </p>
+
     ),
   },
   {
@@ -97,9 +85,9 @@ const QAS = [
           The best way to support OpenResume is to share your thoughts and
           feedback with us to help further improve it. You can send us an email
           at{" "}
-          <Link href="mailto:hello@open-resume.com">hello@open-resume.com</Link>{" "}
+          <Link href="mailto:gn130324@gmail.com">gn130324@gmail.com</Link>{" "}
           or{" "}
-          <Link href="https://github.com/xitanggg/open-resume/issues/new">
+          <Link href="https://github.com/gopi744/open-resume/issues/new">
             open an issue
           </Link>{" "}
           at our Github repository. Whether you like it or not, we would love to
@@ -112,7 +100,7 @@ const QAS = [
           with creating their resume, and your word-of-mouth support would be
           greatly appreciated. If you use Github, you can also show your support
           by{" "}
-          <Link href="https://github.com/xitanggg/open-resume">
+          <Link href="https://github.com/gopi744/open-resume">
             giving the project a star
           </Link>{" "}
           to help increase its popularity and reach.

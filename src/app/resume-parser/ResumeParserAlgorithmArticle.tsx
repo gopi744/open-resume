@@ -349,8 +349,8 @@ export const ResumeParserAlgorithmArticle = ({
         And that is everything about the OpenResume parser algorithm :)
       </Paragraph>
       <Paragraph>
-        Written by <Link href="https://github.com/xitanggg">Xitang</Link> on
-        June 2023
+        Written by <Link href="https://www.instagram.com/xox__snazzyy____xox">Manoj</Link> on
+        February 2025
       </Paragraph>
     </article>
   );
